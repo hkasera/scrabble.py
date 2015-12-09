@@ -1,3 +1,3 @@
 # Scrabbler
 
-A small script that crawls a website to get the images.
+A small python script that crawls a website to get the images.
